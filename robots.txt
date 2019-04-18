@@ -1,0 +1,71 @@
+User-agent: *
+Disallow: /
+Disallow: /src
+
+User-agent: Baiduspider
+Disallow: /
+Disallow: /src
+
+User-agent: Googlebot
+Disallow: /
+Disallow: /src
+
+User-agent: MSNBot
+Disallow: /
+Disallow: /src
+
+User-agent: Baiduspider-image
+Disallow: /
+Disallow: /src
+
+User-agent: YoudaoBot
+Disallow: /
+Disallow: /src
+
+User-agent: Sogou web spider
+Disallow: /
+Disallow: /src
+
+User-agent: Sogou inst spider
+Disallow: /
+Disallow: /src
+
+User-agent: Sogou spider2
+Disallow: /
+Disallow: /src
+
+User-agent: Sogou blog
+Disallow: /
+Disallow: /src
+
+User-agent: Sogou News Spider
+Disallow: /
+Disallow: /src
+
+User-agent: Sogou Orion spider
+Disallow: /
+Disallow: /src
+
+User-agent: ChinasoSpider
+Disallow: /
+Disallow: /src
+
+User-agent: Sosospider
+Disallow: /
+Disallow: /src
+
+User-agent: yisouspider
+Disallow: /
+Disallow: /src
+
+User-agent: EasouSpider
+Disallow: /
+Disallow: /src
+
+User-agent: Twitterbot
+Disallow: /
+Disallow: /src
+
+User-agent: facebookexternalhit
+Disallow: /
+Disallow: /src
